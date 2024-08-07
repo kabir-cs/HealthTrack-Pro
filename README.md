@@ -1,7 +1,7 @@
-# HOSPITAL MANAGEMENT SYSTEM
-Configured a Graphic User Interface that takes input about a patient’s personal info., their health issue and medications prescribed and store it in a SQL database at the backend which can later be used for printing prescription and search patient’s past medical history.
+#HealthTrack-Pro
+Implemented a Graphical User Interface (GUI) to capture and store patient information, health issues, and prescribed medications in a SQL database. This stored data can be accessed later for printing prescriptions and searching patients' medical histories.
 
-Software and modules used in this project are `Python tkinter` for **frontend GUI Design**, `Python MySQL.connector` for **connnecting python code with MySQL server**  and `MySQL server` for **storing data in the database at backend**.
+The project utilizes `Python tkinter` for **frontend GUI design**, `Python MySQL.connector` for **integrating Python with the MySQL server**, and `MySQL server` for **backend data storage**.
 
 **GUI Image** 
 ![GUI image](https://user-images.githubusercontent.com/93373968/172556355-eee205be-76af-41e5-aa86-fd78c72ab531.png)
